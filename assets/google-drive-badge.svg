@@ -1,27 +1,20 @@
-<svg height="20" width="152.3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-	<linearGradient id="smooth" x2="0" y2="100%">
-		<stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-		<stop offset="1" stop-opacity=".1"/>
-	</linearGradient>
-	<clipPath id="round">
-		<rect fill="#fff" height="20" rx="3" width="152.3"/>
-	</clipPath>
-	<g clip-path="url(#round)">
-		<rect fill="#555" height="20" width="24.0"/>
-		<rect fill="#007ec6" height="20" width="128.3" x="24.0"/>
-		<rect fill="url(#smooth)" height="20" width="152.3"/>
-	</g>
-	<g fill="#fff" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="110" text-anchor="middle">
-		<image height="14" width="14" x="5" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRv%0D%0AcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMC4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVy%0D%0Ac2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4%0D%0AbWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3%0D%0ALnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgNTEyIDUx%0D%0AMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNTEyIDUxMjsiIHhtbDpzcGFjZT0i%0D%0AcHJlc2VydmUiPgo8cG9seWdvbiBzdHlsZT0iZmlsbDojRkZDMTA3OyIgcG9pbnRzPSIzNDEuMzQ0%0D%0ALDM1MiA1MTIsMzUyIDM0MS4zNDQsMzIgMTcwLjY1NiwzMiAiLz4KPHBvbHlnb24gc3R5bGU9ImZp%0D%0AbGw6IzIxOTZGMzsiIHBvaW50cz0iMTU4LjQ2NCwzNTIgODUuMzQ0LDQ4MCA0MzIsNDgwIDUxMiwz%0D%0ANTIgIi8+Cjxwb2x5Z29uIHN0eWxlPSJmaWxsOiM0Q0FGNTA7IiBwb2ludHM9IjE3MC42NTYsMzIg%0D%0AMCwzMzAuNjU2IDg1LjM0NCw0ODAgMjUzLjA1NiwxODYuNDk2ICIvPgo8Zz4KPC9nPgo8Zz4KPC9n%0D%0APgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8%0D%0AZz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4K%0D%0APC9nPgo8L3N2Zz4K" y="3"/>
-		<text fill="#010101" fill-opacity=".3" lengthAdjust="spacing" textLength="0.0" transform="scale(0.1)" x="200.0" y="150"/>
-		<text lengthAdjust="spacing" textLength="0.0" transform="scale(0.1)" x="200.0" y="140"/>
-		<text fill="#010101" fill-opacity=".3" lengthAdjust="spacing" textLength="1183.0" transform="scale(0.1)" x="871.5" y="150">Open in Google Drive</text>
-		<text lengthAdjust="spacing" textLength="1183.0" transform="scale(0.1)" x="871.5" y="140">Open in Google Drive</text>
-		<a xlink:href="">
-			<rect fill="rgba(0,0,0,0)" height="20" width="24.0"/>
-		</a>
-		<a xlink:href="https://drive.google.com/">
-			<rect fill="rgba(0,0,0,0)" height="20" width="128.3" x="24.0"/>
-		</a>
-	</g>
+<svg width="152.3" height="20" viewBox="0 0 1523 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="1523" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="250" height="200" fill="#555"/>
+    <!-- 212 -->
+    <rect width="1311" height="200" fill="#08C" x="250"/>
+    <rect width="1523" height="200" fill="url(#a)"/>
+  </g>
+  <g fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="172" y="148" textLength="0" fill="#000" opacity="0.25"></text>
+    <text x="162" y="138" textLength="0"></text>
+    <text x="274" y="148" textLength="1183.0" fill="#000" opacity="0.25">Open in Google Drive</text>
+    <text x="264" y="138" textLength="1183.0">Open in Google Drive</text>
+  </g>
+  <image x="45" y="20" width="160" height="160" xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRv%0D%0AcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMC4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVy%0D%0Ac2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4%0D%0AbWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3%0D%0ALnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIKCSB2aWV3Qm94PSIwIDAgNTEyIDUx%0D%0AMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNTEyIDUxMjsiIHhtbDpzcGFjZT0i%0D%0AcHJlc2VydmUiPgo8cG9seWdvbiBzdHlsZT0iZmlsbDojRkZDMTA3OyIgcG9pbnRzPSIzNDEuMzQ0%0D%0ALDM1MiA1MTIsMzUyIDM0MS4zNDQsMzIgMTcwLjY1NiwzMiAiLz4KPHBvbHlnb24gc3R5bGU9ImZp%0D%0AbGw6IzIxOTZGMzsiIHBvaW50cz0iMTU4LjQ2NCwzNTIgODUuMzQ0LDQ4MCA0MzIsNDgwIDUxMiwz%0D%0ANTIgIi8+Cjxwb2x5Z29uIHN0eWxlPSJmaWxsOiM0Q0FGNTA7IiBwb2ludHM9IjE3MC42NTYsMzIg%0D%0AMCwzMzAuNjU2IDg1LjM0NCw0ODAgMjUzLjA1NiwxODYuNDk2ICIvPgo8Zz4KPC9nPgo8Zz4KPC9n%0D%0APgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8%0D%0AZz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4KPC9nPgo8Zz4K%0D%0APC9nPgo8L3N2Zz4K"/>
 </svg>
