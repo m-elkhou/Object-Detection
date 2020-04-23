@@ -4,5 +4,4 @@ mask_rcnn_coco.h5
 Mask_RCNN/*
 mask_rcnn.egg-info/*
 ~$r.docx
-openlogo.tar
-openlogo/*
+dataset/*
