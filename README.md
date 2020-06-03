@@ -16,7 +16,7 @@ The real power of Detectron2 lies in the HUGE amount of pre-trained models avail
 
 ## Result / Model Zoo
 
-All numbers were obtained on [Google Colab](https://colab.research.google.com/drive/1970qEp1eo2ORhw9iEynNXJCmNaVWpLLY)  with 1 NVIDIA GPU : Tesla P100-PCIE or K80 ... The software in use were PyTorch 1.5, CUDA 10.1, cuDNN 7.6.3.
+All numbers were obtained on [Google Colab](https://colab.research.google.com)  with 1 NVIDIA GPU : Tesla P100-PCIE or K80 ... The software in use were PyTorch 1.5, CUDA 10.1, cuDNN 7.6.3.
 
 | Name | backbone | nb iter. for training | Overall training speed | Total training time | AP | AP50 | AP75 | APs | APm | APl | total Loss | inference time (s/im) | Model Size | download |
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
