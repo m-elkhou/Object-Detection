@@ -1,0 +1,20 @@
+pip
+setuptools
+wheel
+tqdm
+matplotlib
+pandas
+numpy
+scipy
+scikit-image
+opencv-python
+opencv-contrib-python
+tensorflow
+keras
+cython
+pyyaml==5.3.1
+torch==1.5.0 -f https://download.pytorch.org/whl/cu101/torch_stable.html 
+torchvision==0.6.0 -f https://download.pytorch.org/whl/cu101/torch_stable.html 
+#git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI
+pycocotools -f git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI
+watermark
