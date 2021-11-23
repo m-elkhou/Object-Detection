@@ -12,7 +12,7 @@ opencv-contrib-python
 tensorflow
 keras
 cython
-pyyaml==5.3.1
+pyyaml==5.4
 torch==1.5.0 -f https://download.pytorch.org/whl/cu101/torch_stable.html 
 torchvision==0.6.0 -f https://download.pytorch.org/whl/cu101/torch_stable.html 
 #git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI
